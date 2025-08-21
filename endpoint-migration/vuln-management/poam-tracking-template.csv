@@ -1,0 +1,4 @@
+Vulnerability ID,System,Severity,Mitigation Action,Owner,Due Date,Status,Notes
+V-12345,DC-01,Critical,Apply KB5028166,WinOps,2025-07-15,Closed,Patched and verified
+V-67890,DB-02,High,Apply STIG registry settings,DBA Team,2025-08-01,Open,Awaiting maintenance window
+V-24680,WEB-03,Medium,Update OpenSSL package,WebOps,2025-09-10,Mitigated,Compensating WAF rule applied
